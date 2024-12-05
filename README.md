@@ -32,3 +32,7 @@ Some editing of directories in code may be required to run.
 There is a variables section which contains various constants used throughout the code, including the Ticker.
 
 Changing these variables can alter the model to work for different stocks and markets.
+
+# Demo
+
+Try a demo of this model on HuggingFace: https://huggingface.co/spaces/rhbuckley/hmm-market-analysis
